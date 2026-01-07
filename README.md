@@ -23,7 +23,7 @@ Real-time face and eye detection using a webcam
 Eye Aspect Ratio (EAR) based fatigue analysis
 Immediate alerts to warn the driver
 Lightweight and efficient processing
-Privacy-focused design with no data storage
+Privacy focused design with no data storage
 
 # Technologies Used :
 Python – Core programming language
@@ -36,7 +36,7 @@ Machine Learning concepts – Feature analysis and thresholding
 User privacy was a key design consideration in this project. All processing is done locally and in real time. No images, videos, or personal data are stored or transmitted, ensuring complete user confidentiality.
 
 # Results :
-The system is capable of reliably detecting prolonged eye closure and issuing alerts in real time. It performs well under normal lighting conditions and demonstrates how simple yet effective computer vision techniques can be applied to real-world safety problems.
+The system is capable of reliably detecting prolonged eye closure and issuing alerts in real time. It performs well under normal lighting conditions and demonstrates how simple yet effective computer vision techniques can be applied to real world safety problems.
 
 # Limitations :
 Performance may degrade under poor lighting conditions
@@ -45,10 +45,10 @@ Requires a stable camera position
 
 # Future Improvements :
 Integration of head pose and yawn detection
-Support for low-light environments
+Support for low light environments
 Mobile application deployment
 Improved alert mechanisms (audio + vibration)
 
-# Project Timeline :
+# Timeline :
 September 2023 – December 2023
  
