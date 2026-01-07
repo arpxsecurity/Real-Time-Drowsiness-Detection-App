@@ -1,4 +1,5 @@
 # Real-Time Drowsiness Detection App
+<img width="1536" height="1024" alt="ChatGPT Image Jan 7, 2026, 10_22_43 PM" src="https://github.com/user-attachments/assets/7ff51192-5515-436d-9046-960f3135c62b" />
 
 # Introduction :
 Driver drowsiness is one of the most underestimated causes of road accidents. Unlike speeding or drunk driving, fatigue develops gradually and often goes unnoticed by the driver. This project focuses on detecting early signs of drowsiness using computer vision techniques and providing timely alerts to reduce the risk of accidents.
