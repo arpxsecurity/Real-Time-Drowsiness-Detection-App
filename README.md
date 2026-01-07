@@ -26,15 +26,15 @@ Lightweight and efficient processing
 Privacy focused design with no data storage
 
 # Technologies Used :
-Python - Core programming language
+* Python - Core programming language
 
-OpenCV - Image processing and real-time video analysis
+* OpenCV - Image processing and real-time video analysis
 
-Haar Cascades - Face and eye detection
+* Haar Cascades - Face and eye detection
 
-Eye Aspect Ratio (EAR) - Drowsiness detection logic
+* Eye Aspect Ratio (EAR) - Drowsiness detection logic
 
-Machine Learning concepts - Feature analysis and thresholding
+* Machine Learning concepts - Feature analysis and thresholding
 
 # Privacy Considerations :
 User privacy was a key design consideration in this project. All processing is done locally and in real time. No images, videos, or personal data are stored or transmitted, ensuring complete user confidentiality.
