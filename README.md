@@ -3,7 +3,7 @@
 # Introduction :
 Driver drowsiness is one of the most underestimated causes of road accidents. Unlike speeding or drunk driving, fatigue develops gradually and often goes unnoticed by the driver. This project focuses on detecting early signs of drowsiness using computer vision techniques and providing timely alerts to reduce the risk of accidents.
 
-# The Real-Time Drowsiness Detection App continuously analyzes facial cues and eye behavior through a live camera feed to identify fatigue in real time.
+The Real-Time Drowsiness Detection App continuously analyzes facial cues and eye behavior through a live camera feed to identify fatigue in real time.
 
 # Motivation :
 During long drives or night shifts, drivers may experience reduced alertness due to lack of sleep, stress, or medical conditions. Traditional safety measures do not actively monitor a driver’s condition. This project was built to explore how computer vision and lightweight machine learning techniques can be used to improve road safety without relying on expensive hardware or intrusive sensors.
