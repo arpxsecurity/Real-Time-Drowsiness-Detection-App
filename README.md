@@ -51,8 +51,3 @@ Improved alert mechanisms (audio + vibration)
 
 # Timeline :
 September 2023 – December 2023
- 
-
-https://github.com/user-attachments/assets/eeb53003-df32-4f6a-b68e-171a0f3935e1
-
-
