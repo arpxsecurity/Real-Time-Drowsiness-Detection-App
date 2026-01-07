@@ -1,4 +1,4 @@
-#Real-Time Drowsiness Detection App
+# Real-Time Drowsiness Detection App
 
 📌 Overview
 The Real-Time Drowsiness Detection App is a computer vision based application designed to detect driver fatigue in real time. It monitors facial features and eye movements to identify signs of drowsiness and triggers alerts to help prevent fatigue-related accidents.
