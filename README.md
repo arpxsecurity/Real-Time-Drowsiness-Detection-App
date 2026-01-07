@@ -27,9 +27,13 @@ Privacy focused design with no data storage
 
 # Technologies Used :
 Python – Core programming language
+
 OpenCV – Image processing and real-time video analysis
+
 Haar Cascades – Face and eye detection
+
 Eye Aspect Ratio (EAR) – Drowsiness detection logic
+
 Machine Learning concepts – Feature analysis and thresholding
 
 # Privacy Considerations :
